@@ -3,7 +3,7 @@ const app = Vue.createApp({
 		return {
 			cart: 0,
 			product: "Socks",
-			brand: "Mastery",
+			brand: "SMZR",
 			selectedVarient: 0,
 			details: ["50% cotton", "30% wool", "20% polyester"],
 			variants: [
